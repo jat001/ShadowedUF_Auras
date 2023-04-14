@@ -1,0 +1,12 @@
+## Interface: 100007
+## Title: Shadowed UF Plugin: Auras
+## Notes: A Shadowed Unit Frames Plugin
+## Author: Jat
+## Version: 0.0.1
+## RequiredDeps: ShadowedUnitFrames
+
+localization\enUS.lua
+localization\zhCN.lua
+localization\zhTW.lua
+
+ShadowedUF_Auras.lua
